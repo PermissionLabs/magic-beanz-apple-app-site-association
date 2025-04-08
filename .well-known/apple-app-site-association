@@ -3,7 +3,7 @@
         "details": [
             {
                 "appIDs": [
-                    "PG7A5UKTD9.com.permissionlabs.passkey"
+                    "PG7A5UKTD9.com.permissionlabs.magicbeanz"
                 ],
                 "components": [
                     {
@@ -15,7 +15,7 @@
     },
     "webcredentials": {
         "apps": [
-            "PG7A5UKTD9.com.permissionlabs.passkey"
+            "PG7A5UKTD9.com.permissionlabs.magicbeanz"
         ]
     },
     "appclips": {}
